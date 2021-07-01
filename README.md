@@ -2,4 +2,4 @@
 ISE_PROJECT : database project
 <br>
 <br>
-DMDD : SQL vs NoSQL
+ISE_DMDD : SQL vs NoSQL
